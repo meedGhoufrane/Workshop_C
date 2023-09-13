@@ -13,5 +13,18 @@ int main(int argc, char *argv[]) {
       
       printf("%.2f", c );
       
+      if( c <= 0){
+      	printf(" temperature  tres froid");
+	  }else if( c>0 && c <= 15){
+	  	      	printf(" temperature froid");
+	  }
+	  else if( c>15 && c<=30){
+	  	printf(" temperature chaud");
+	  }
+	  else {
+	  	printf(" temperature tres chaud");
+	  }
+      
+      
 	return 0;
 }
