@@ -11,6 +11,7 @@ int main(int argc, char *argv[]) {
 	 
 	float c = (f-32)/1.8
       
-      printf("%.2f", c )
+      printf("%.2f", c );
+      printf("test");
 	return 0;
 }
