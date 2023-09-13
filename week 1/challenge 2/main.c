@@ -9,9 +9,9 @@ int main(int argc, char *argv[]) {
 	 printf("enter Fahrenheit :\n");
 	 scanf("%d",&f);
 	 
-	float c = (f-32)/1.8
+	float c = (f-32)/1.8;
       
       printf("%.2f", c );
-      printf("test");
+      
 	return 0;
 }
