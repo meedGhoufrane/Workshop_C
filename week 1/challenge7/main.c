@@ -5,10 +5,10 @@
 
 int main(int argc, char *argv[]) {
 	
-	char  number[3];
+	int  number[3];
 	
 	printf("inter value  : \n");
-	scanf("%s",number);
+	scanf("%s",&number);
 	
 	printf("%s",strrev(number));
 	return 0;
