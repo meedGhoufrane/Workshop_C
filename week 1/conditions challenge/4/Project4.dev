@@ -1,6 +1,6 @@
 [Project]
-FileName=Project2.dev
-Name=Project2
+FileName=Project4.dev
+Name=Project4
 Type=1
 Ver=2
 ObjFiles=
@@ -29,10 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-<<<<<<< HEAD
-=======
 UnitCount=1
->>>>>>> 6329118149d82951b982ec55520039a268fe0cf8
 
 [VersionInfo]
 Major=1
@@ -53,8 +50,6 @@ ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
 
-<<<<<<< HEAD
-=======
 [Unit1]
 FileName=main.c
 CompileCpp=0
@@ -65,4 +60,3 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
->>>>>>> 6329118149d82951b982ec55520039a268fe0cf8
