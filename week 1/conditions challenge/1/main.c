@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 	 else if (val % 2 == 0){
 		printf("number is : paire ");
 	}
-	else if(val % 2 == 1){
+	else if(val % 2 != 0){
 		printf("number is impaire");
 	}
 	return 0;
